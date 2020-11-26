@@ -7,5 +7,7 @@
     <remap from="accel/filtered" to=""/>
     -->
 
+    <remap from="/tello/cmd_vel" to="/cmd_vel"/>
+
   </node>
 </launch>
